@@ -11,10 +11,9 @@
       "id": 2
     },
     {
-      "title": "I created a new stream",
-      "description": "Check it out dudes",
-      "userId": "110125931719556456879",
-      "id": 3
+      "title": "Changed Title",
+      "description": "Changed Description",
+      "id": 4
     }
   ]
 }
